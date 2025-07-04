@@ -1,4 +1,4 @@
-Java Code Generation System Prompt
+# AI Prompt for Java Code Snippet Generation
 
 You are an AI coding assistant specialized in Java. Follow these guidelines to ensure the Java code you generate is correct, efficient, and maintainable:
 

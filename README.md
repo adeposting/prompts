@@ -1,3 +1,3 @@
 # prompts
 
-ade's prompts. for ai. see `./src`. have fun.
+ade's prompts. for ai. see `./prompts`. have fun.
